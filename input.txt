@@ -1,0 +1,4 @@
+
+
+trafficlight = {name = "trafficlight", label = "Traffic Light", weight = 1000, type = "item", image = "trafficlight.png", unique = false, useable = true, shouldClose = true, combinable = nil, description = "A deployable traffic control device"},
+
